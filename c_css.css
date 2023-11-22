@@ -1,0 +1,19 @@
+
+* {
+    background-color: rgb(21, 21, 24);
+    color: wheat;
+  }
+  #head {
+    display: block;
+    text-align: center;
+    background-color: red;
+  }
+  #para {
+    text-align: center;
+    font-size: 7em;
+  }
+  .button {
+    text-align: center;
+    display: flexbox;
+  }
+  
